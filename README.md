@@ -24,7 +24,7 @@ This web-based platform showcases the latest trailers for movies, games, and ani
 
 ![Demo Screenshot](./src/images/screenshot.png)
 
-👉 **Live Demo: https://github.com/withurywrrnsukh-bot/landing-page-tonnam-09
+👉 **Live Demo: https://withurywrrnsukh-github.io/landing-page-tonnam-09
 ---
 
 ## ✨ Features
